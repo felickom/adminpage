@@ -91,7 +91,7 @@ CREATE TABLE `company` (
 --
 
 INSERT INTO `company` (`id`, `content`) VALUES
-(1, '<p>Di ERA kemajuan teknologi seperti saat ini, pastinya tidak sulit untuk mengabadikan setiap momen spesial.&nbsp;Keunggulan teknologi kami, membantu memudahkan Anda untuk mengabadikannya.&nbsp;Anda bisa menggunakan bekerja sama dengan kami, untuk mendokumentasikan setiap Acara / kegiatan&nbsp;Sekarang ini yang sangat populer dan sedang trend dalam event adalah live streaming.</p>\r\n<p>CreativEnt Indonesia merupakan perusahaan yang bergerak dibidang penyelenggara event khususnya pembuatan event live streaming. Kami hadir untuk memberikan kemudahan kepada anda dalam pelaksanaan kegiatan secara virtual, sehingga kegiatan anda dapat. tersampaikan melalui berbagai macam platform seperti Youtube, Facebook, Instagram, Zoom Meeting dan Zoom Webinar, maupun platform lainnya. CreativEnt Indonesia adalah solusi yang terbaik, bagi Anda yang akan mengabadikan momen spesial, atau event virtual Anda. Setiap acara yang spesial yang tidak dilakukan setiap harinya tentunya menjadi sesuatu yang sayang untuk dilupakan, seperti: Wedding &amp; Birthday Event, Corporate Event, Custom Event</p>');
+(1, '<p>Di ERA kemajuan teknologi seperti saat ini, pastinya tidak sulit untuk mengabadikan setiap momen spesial.</p>');
 
 -- --------------------------------------------------------
 
@@ -177,7 +177,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `username`, `email`, `password`, `registered_at`, `isAdmin`) VALUES
-(1, 'admin', 'admincreativent@gmail.com', '123456', '2023-01-18', 1);
+(1, 'admin', 'test@test.com', '123456', '2023-01-18', 1);
 
 -- --------------------------------------------------------
 

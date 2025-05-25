@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'poppins';
+    font-size: 30px;
+    color: black;
+    font-weight: 600;
+    padding-bottom: 20px;
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
+
+p {
+    color: #000000;
+}
+
+a {
+    color: #532dfa;
+    font-style: italic;
+}
